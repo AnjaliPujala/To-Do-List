@@ -13,7 +13,7 @@ This project provides a simple and user-friendly To-Do List application with cli
 1. Clone the repository to your local machine.
 
     ```bash
-    git clone https://github.com/AnjaliPujala/To-Do List.git
+    git clone https://github.com/AnjaliPujala/To-Do-List.git
     ```
 
 2. Open the `index.html` file in a web browser to view the To-Do List application.
